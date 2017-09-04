@@ -2716,7 +2716,7 @@ margin: 10px 20px 10px 20px;
 color: #FFF;
 }
 
-.navbar-inverse .navbar-brand, .navbar-inverse .navbar-brand:hover {color: #fff;font-weight: 900;font-family: 'Oswald', sans-serif;letter-spacing: 0.07em;}
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-brand:hover {color: #fff;font-weight: 100;font-family: 'Raleway', sans-serif;letter-spacing: 0.09em;}
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
 border-color: transparent;
