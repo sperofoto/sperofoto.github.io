@@ -1114,7 +1114,7 @@ margin-bottom: 40px;
 min-height:200px;
 text-align: center;
 }
-#contact .contact-wrapper h3 {color: rgba(0, 131, 143, 1);}
+#contact .contact-wrapper h3 {color: rgb(255, 255, 255);}
 #contact .social-below {
 display: block;
 margin-top: 5px;
@@ -2716,7 +2716,7 @@ margin: 10px 20px 10px 20px;
 color: #FFF;
 }
 
-.navbar-inverse .navbar-brand, .navbar-inverse .navbar-brand:hover {color: #fff;font-weight: 100;font-family: 'Raleway', sans-serif;letter-spacing: 0.09em;}
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-brand:hover {color: #fff;font-weight: 300;font-family: 'Open Sans', sans-serif;letter-spacing: 0.07em;}
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
 border-color: transparent;
@@ -2942,6 +2942,14 @@ text-align: center;
 .logo-align {
     float:left;
 }
+
+
+.om-heading {
+
+padding-bottom: 30px;
+
+    }
+
 
 
 
